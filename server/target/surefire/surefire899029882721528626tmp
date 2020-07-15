@@ -1,0 +1,27 @@
+#surefire
+#Wed Jul 15 12:21:05 UTC 2020
+testClassesDirectory=/root/hello-world/server/target/test-classes
+classPathUrl.4=/root/.m2/repository/org/hamcrest/hamcrest-library/1.2.1/hamcrest-library-1.2.1.jar
+forkMode=once
+classPathUrl.3=/root/.m2/repository/org/hamcrest/hamcrest-core/1.2.1/hamcrest-core-1.2.1.jar
+classPathUrl.2=/root/.m2/repository/junit/junit-dep/4.10/junit-dep-4.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=/root/hello-world/server/target/classes
+reportsDirectory=/root/hello-world/server/target/surefire-reports
+classPathUrl.0=/root/hello-world/server/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/root/hello-world/server/src/test/java
+requestedTest=PerfLatency
+surefireClassPathUrl.1=/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar
+surefireClassPathUrl.0=/root/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.11/surefire-junit4-2.11.jar
+runOrder=filesystem
+useSystemClassLoader=true
+isTrimStackTrace=true
+enableAssertions=true
+requestedTestMethod=latencyTest
+failIfNoTests=true
+runStatisticsFile=/root/hello-world/server/.surefire-789C84C387751C238E1D53E1808E7108CBF217FD
+includes0=**/PerfLatency.java
+childDelegation=false
+classPathUrl.6=/root/.m2/repository/org/objenesis/objenesis/1.0/objenesis-1.0.jar
+classPathUrl.5=/root/.m2/repository/org/mockito/mockito-core/1.8.5/mockito-core-1.8.5.jar
